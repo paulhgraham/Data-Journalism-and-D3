@@ -1,4 +1,4 @@
-# Unit 16 | Assignment - Data Journalism and D3
+Data Journalism and D3
 
 ![alt text](https://github.com/paulhgraham/d3.js-HW/blob/master/Data%20Journalism%20and%20D3%20Exercise.jpeg)
 
